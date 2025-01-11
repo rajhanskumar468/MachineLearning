@@ -1,0 +1,11 @@
+narendra.singh1@igtsolutions.com
+Narendra@28
+
+https://igtsolutions.lms.simplilearn.com/affiliate/user/login
+
+
+
+mongodb+srv://rajhans:rajhans@cluster1-fjear.mongodb.net/test?retryWrites=true&w=majority
+
+
+Replace <password> with the password for the user, rajhans, and ensure all special characters are
